@@ -1,4 +1,4 @@
-# İşletim-Sistemi Ödevi
+# Isletim-Sistemi Odevi
 Dr. Öğr. Üyesi Hasan Serdar Hocamınız İşletim Sistemleri dersi için verdiği Python ile Metin Düzenleyici kodu.
 Yapanlar
 Zeynep Çeliknalça
